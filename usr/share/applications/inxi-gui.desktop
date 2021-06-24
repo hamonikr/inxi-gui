@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=PC Information
+Name[ko]=시스템 정보 (inxi)
+Comment=Use inxi to show PC information
+Exec=inxi-gui
+Icon=computer
+Terminal=false
+Type=Application
+Categories=System;
+NoDisplay=False
+Keywords=system;hardware;시스템;정보;inxi;vga;cpu;

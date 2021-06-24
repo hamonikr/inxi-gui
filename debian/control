@@ -1,0 +1,12 @@
+Source: inxi-gui
+Section: system
+Priority: optional
+Maintainer: Kevin Kim <root@hamonikr.org>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.8
+Homepage: https://hamonikr.org
+
+Package: inxi-gui
+Architecture: all
+Depends: yad, policykit-1
+Description: Simple gui front end to inxi.
